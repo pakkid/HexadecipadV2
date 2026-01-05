@@ -1,4 +1,4 @@
-26501428336563189
+26504963162265669
 Alps_MX_Stabilizers
 Alps-MX-Stabilizers-1.5U
 
@@ -106308,6 +106308,20 @@ Varistor VF
 0
 2
 2
+footprints
+SK6812MINI-E_fixed
+Add-on for regular MX-footprints with SK6812 MINI-E
+cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight
+0
+4
+4
+footprints
+XIAO-Generic-Hybrid-14P-2.54-21X17.8MM
+
+
+0
+14
+14
 kicad-keyboard-parts.pretty-master
 CP_EIA-3216-18_Kemet-A_stealth
 Tantalum Capacitor SMD Kemet-A (3216-18 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
