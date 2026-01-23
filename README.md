@@ -48,6 +48,7 @@ HexadecipadV2 is hackpad designed for the blueprint/hackpad ysws. I spent about 
 | 4 | U2 | MCP23017_SP | DIP-28_W7.62mm | 1 |
 | 5 | SW5–SW28 | SW_Push_45deg | MX-Hotswap-1U | 24 |
 | 6 | SW1–SW4 | Encoder | RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm | 4 |
+| 7 | N/A | M3x16mm screws | N/A | 4 |
 
  - **[Interactive BOM](PCB/HexadecipadV2/bom/ibom.html)**
 
