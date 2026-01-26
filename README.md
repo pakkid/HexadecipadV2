@@ -15,6 +15,7 @@ HexadecipadV2 is hackpad designed for the blueprint/hackpad ysws. I spent about 
 - 3D-printed case 👍
 - Too many inputs. checked with Blueprint Support, they said its fine as long as I pay.
 - Too big pcb (100mmx130mm) also checked with Blueprint staff.
+- Fully custom vibe coded garbage script that send serial to a python script on my pc so we can modify keys without having to use stupid kmk.
  
 ## Screenshots
 
