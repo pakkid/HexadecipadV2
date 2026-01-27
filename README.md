@@ -16,6 +16,43 @@ HexadecipadV2 is hackpad designed for the blueprint/hackpad ysws. I spent about 
 - Too many inputs. checked with Blueprint Support, they said its fine as long as I pay.
 - Too big pcb (100mmx130mm) also checked with Blueprint staff.
 - Fully custom vibe coded garbage script that send serial to a python script on my pc so we can modify keys without having to use stupid kmk.
+
+## Project Structure (just the READMEs for when you access on github.io)
+
+```
+HexadecipadV2/
+├── CAD/                     # Case and mechanical design files
+│   └── README.md            # CAD file documentation
+├── Firmware/                # Source firmware code
+│   └── README.md            # Firmware documentation
+├── PCB/                     # KiCad PCB design files
+│   └── HexadecipadV2/       # Main PCB project
+│       └── README.md        # PCB documentation
+├── Production/              # Manufacturing-ready files
+│   ├── CAD/                 # STL files for 3D printing
+│   │   └── README.md        # 3D printing guide
+│   ├── Firmware/            # Production firmware
+│   │   └── README.md        # Firmware installation guide
+│   ├── PCB/                 # Gerber files for PCB fab
+│   │   └── README.md        # PCB ordering guide
+│   └── README.md            # Production overview
+└── Other files/             # Supporting files
+    ├── 3d models/           # Component STEP models
+    │   └── README.md        # 3D models documentation
+    ├── images/              # Documentation images
+    │   └── README.md        # Images documentation
+    └── README.md            # Other files overview
+```
+
+### Links and stuff
+- **[CAD Files](CAD/)** - Case design and mechanical files
+- **[Firmware](Firmware/)** - Source code and development files
+- **[PCB Design](PCB/)** - KiCad project and design files
+- **[Production Files](Production/)** - Ready-to-manufacture files
+  - [3D Printable Case Files](Production/CAD/)
+  - [Production Firmware](Production/Firmware/)
+  - [PCB Manufacturing Files](Production/PCB/)
+- **[Other Files](Other%20files/)** - Component models and documentation images
  
 ## Screenshots
 
@@ -62,8 +99,12 @@ HexadecipadV2 is hackpad designed for the blueprint/hackpad ysws. I spent about 
 
 ### Firmware
 
-Refer to the [Firmware](Firmware/) to see my stupid code.
+Have a look at [Firmware](Firmware/) to see my stupid code.
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contributing
+
+Contributing will probably end up with me being fried because of my terrible everything in this project.
